@@ -1,6 +1,6 @@
 # My Favorite Series: Stranger Things
 
-![Stranger Things](https://example.com/stranger-things-poster.jpg)
+![AAAABS6v2gvwesuRN6c28ZykPq_fpmnQCJwELBU-kAmEcuC9HhWX-DfuDbtA-bfo-IrfgNtxl0qwJJlhI6DENsGFXknKkjhxPGTV-qhp](https://github.com/KuyaIvhan/app-dev/assets/133894424/e6d98360-6469-4263-9c69-5a8674d57515)
 
 ## Synopsis
 Stranger Things is an enthralling sci-fi horror series that takes place in the fictional town of Hawkins, Indiana, during the 1980s. The story revolves around a group of young friends who embark on a thrilling adventure when their friend, Will Byers, mysteriously disappears.
