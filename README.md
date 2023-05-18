@@ -29,6 +29,6 @@ As the battle against the Mind Flayer unfolds in Hawkins’ mall, Billy protects
 
 ## Created by:
 
--Recena, Ivhan
--Salar, Ceejay
--Lovendino, Mark Jay
+- Salar, Ceejay 
+-  Recena, Ivhan
+-  Lovendino, Mark Jay
