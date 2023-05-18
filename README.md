@@ -26,3 +26,9 @@ As the battle against the Mind Flayer unfolds in Hawkins’ mall, Billy protects
 -  Complex characters and compelling storylines.
 -  The show's ability to keep viewers on the edge of their seats.
 -  High production value and breathtaking visuals.
+
+## Created by:
+
+-Ivhan Recena
+-Ceejay Salar
+-Mark Jay Lovendino
